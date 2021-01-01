@@ -1,1 +1,1 @@
-This is zulumba's first git project!
+This is Zulumba's first git project!
